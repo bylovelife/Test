@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://10.10.14:134:8180/ydzd/app.ipa</string>
+     <string>http://172.16.68.15:9900/ydzdapp/app.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -22,7 +22,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://10.10.14:134:8180/ydzd/icon.png</string>
+     <string>http://172.16.68.15:9900/ydzdapp/icon.png</string>
     </dict>
     <dict>
      <key>kind</key>
