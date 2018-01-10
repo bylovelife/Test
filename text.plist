@@ -31,7 +31,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://10.10.14:134:8180/ydzd/icon.png</string>
+     <string>http://172.16.68.15:9900/ydzdapp/icon.png</string>
     </dict>
    </array>
    <key>metadata</key>
